@@ -1,0 +1,7 @@
+bin
+.settings
+jar
+target
+.classpath
+.project
+hotspot.log
