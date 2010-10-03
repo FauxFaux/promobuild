@@ -10,8 +10,8 @@
 		<to>/scripts/$1</to>
 	</rule>
 	<rule>
-		<from>/styles/**</from>
-		<to>/styles/$1</to>
+		<from>/style/**</from>
+		<to>/style/$1</to>
 	</rule>
 	<rule>
 		<from>/**</from>

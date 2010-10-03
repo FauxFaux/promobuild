@@ -60,6 +60,11 @@
 			<artifactId>velocity</artifactId>
 			<version>1.5</version>
 		</dependency>
+		<dependency>
+			<groupId>velocity-tools</groupId>
+			<artifactId>velocity-tools</artifactId>
+			<version>1.4</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.tuckey</groupId>
