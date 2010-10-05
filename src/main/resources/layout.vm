@@ -2,7 +2,7 @@
     "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
 <html>
 <head>
-<title>${title}</title>
+<title>${msg.title($title)}</title>
 <link rel="stylesheet" type="text/css" href='#springUrl("/style/main.css")' />
 </head>
 <body>
